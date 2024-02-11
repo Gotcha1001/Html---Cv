@@ -1,0 +1,48 @@
+.me {
+width: 50%;
+height: 100%;
+margin: 100px;
+margin-left: 30%;
+border: solid black;
+border-width: 10px;
+padding: 10px
+}
+
+#edu {
+
+
+
+font-size: 2rem;
+
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 3rem;
+    color:midnightblue
+}
+
+h2 {
+    color:darkred;
+}
+h3 {
+    color:indigo
+}
+
+h4 {
+    color:purple
+}
+
+.class {
+    font-family: 'Oswald', sans-serif;
+font-family: 'Protest Strike', sans-serif;
+}
+
+.summary {
+    text-align: center;
+}
+
+.summary1 {
+    text-align: center;
+}
